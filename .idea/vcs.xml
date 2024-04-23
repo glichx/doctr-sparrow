@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/sparrow-data" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sparrow-ml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sparrow-ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sparrow-ui/src/python-doctr" vcs="Git" />
+  </component>
+</project>
